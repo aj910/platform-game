@@ -98,7 +98,7 @@ const platformPositions = [
   { x: 3900, y: 450 },
   { x: 4200, y: 400 },
   { x: 4400, y: 200 },
-  { x: 4700, y: 150 }
+  { x: 4700, y: 150 },
 ];
 
 const platforms = platformPositions.map(
